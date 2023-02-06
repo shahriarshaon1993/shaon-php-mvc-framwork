@@ -1,0 +1,15 @@
+{
+    "name": "boompearl/shaon-php-mvc-framwork",
+    "description": "Testing",
+    "autoload": {
+        "psr-4": {
+            "Boompearl\\ShaonPhpMvcFramwork\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shahriar Shaon"
+        }
+    ],
+    "require": {}
+}
