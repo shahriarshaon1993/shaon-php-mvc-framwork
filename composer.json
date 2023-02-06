@@ -3,7 +3,7 @@
     "description": "Testing",
     "autoload": {
         "psr-4": {
-            "Boompearl\\ShaonPhpMvcFramwork\\": "src/"
+            "Boompearl\\": "./"
         }
     },
     "authors": [
