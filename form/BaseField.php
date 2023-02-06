@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core\form;
+namespace boompearl\phpmvc\form;
 
-use Spike\core\Model;
+use boompearl\phpmvc\Model;
 
 abstract class BaseField
 {

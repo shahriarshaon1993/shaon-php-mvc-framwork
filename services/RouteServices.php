@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core\services;
+namespace boompearl\phpmvc\services;
 
-use Spike\core\Application;
+use boompearl\phpmvc\Application;
 
 class RouteServices 
 {

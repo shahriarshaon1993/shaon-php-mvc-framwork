@@ -1,6 +1,6 @@
 <?php
 
-namespace Spike\core\form;
+namespace boompearl\phpmvc\form;
 
 class TextareaField extends BaseField
 {

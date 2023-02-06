@@ -1,9 +1,9 @@
 <?php
 
-namespace Spike\core\db;
+namespace boompearl\phpmvc\db;
 
-use Spike\core\Model;
-use Spike\core\Application;
+use boompearl\phpmvc\Model;
+use boompearl\phpmvc\Application;
 
 abstract class DbModel extends Model
 {

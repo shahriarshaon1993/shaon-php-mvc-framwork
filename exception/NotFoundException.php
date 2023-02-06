@@ -1,6 +1,6 @@
 <?php
 
-namespace Spike\core\exception;
+namespace boompearl\phpmvc\exception;
 
 class NotFoundException extends \Exception
 {

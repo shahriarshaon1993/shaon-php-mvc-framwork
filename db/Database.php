@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core\db;
+namespace boompearl\phpmvc\db;
 
-use Spike\core\Application;
+use boompearl\phpmvc\Application;
 
 class Database
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Spike\core;
+namespace boompearl\phpmvc;
 
 class Session
 {

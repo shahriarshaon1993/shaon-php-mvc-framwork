@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core;
+namespace boompearl\phpmvc;
 
-use Spike\core\db\DbModel;
+use boompearl\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

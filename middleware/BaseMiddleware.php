@@ -1,6 +1,6 @@
 <?php
 
-namespace Spike\core\middleware;
+namespace boompearl\phpmvc\middleware;
 
 abstract class BaseMiddleware
 {

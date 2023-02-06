@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core;
+namespace boompearl\phpmvc;
 
-use Spike\core\middleware\BaseMiddleware;
+use boompearl\phpmvc\middleware\BaseMiddleware;
 
 class Controller
 {

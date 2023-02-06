@@ -1,9 +1,9 @@
 <?php
 
-namespace Spike\core\middleware;
+namespace boompearl\phpmvc\middleware;
 
-use Spike\core\Application;
-use Spike\core\exception\ForbiddenException;
+use boompearl\phpmvc\Application;
+use boompearl\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

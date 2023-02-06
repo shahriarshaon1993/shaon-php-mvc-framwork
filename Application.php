@@ -1,9 +1,9 @@
 <?php
 
-namespace Spike\core;
+namespace boompearl\phpmvc;
 
-use Spike\core\db\Database;
-use Spike\core\services\RouteServices;
+use boompearl\phpmvc\db\Database;
+use boompearl\phpmvc\services\RouteServices;
 
 class Application
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Spike\core;
+namespace boompearl\phpmvc;
 
-use Spike\core\exception\NotFoundException;
+use boompearl\phpmvc\exception\NotFoundException;
 
 class Route
 {
